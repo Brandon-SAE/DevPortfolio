@@ -302,7 +302,7 @@
 .meteor{
     width: 70px;
     height: 70px;
-    background-image: url('/images/Meteor1.png');
+    background-image: url('images/Meteor1.png');
     background-color: brown;
     position: relative;
     top: 0px;
@@ -314,7 +314,7 @@
 #character{
     width: 100px;
     height: 150px;
-    background-image: url('/images/PlayerA.png');
+    background-image: url('images/PlayerA.png');
     border-radius: 25%;
     position: relative;
     top: 529px;
